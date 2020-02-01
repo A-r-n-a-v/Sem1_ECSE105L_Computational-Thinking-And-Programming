@@ -1,1 +1,2 @@
-# Sem1_ECSE105L_Computational-Thinking-And-Programming
+# ECSE105L : Computational Thinking And Programming
+The very basics of python programming.
